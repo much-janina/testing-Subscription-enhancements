@@ -1,0 +1,4 @@
+[submodule "much-GmbH/knime_subscription_enhancement"]
+	path = much-GmbH/knime_subscription_enhancement
+	url = git@github.com:much-GmbH/knime_subscription_enhancement.git
+	branch = main
